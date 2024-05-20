@@ -70,7 +70,7 @@
         },
         "IOC-13": {
             "title": "Mindestens eine Anwendung verwendet verschlüsselte DNS-Abfragen.",
-            "description": "Der DNS over HTTPs server {} wurde während der Erfassung kontaktiert. Dies scheint darauf hinzuweisen, dass mindestens eine Anwendung diese Technik verwendet, um ihre DNS-Anfragen zu verschlüsseln. Diese Funktion schränkt die Scanfunktionen von SpyGuard ein. Wenn diese Funktion auf dem analysierten Gerät nicht aktiviert ist, kann es sich lohnen, herauszufinden, welche App diese Methode verwendet."
+            "description": "Der DNS over HTTPs server {} wurde während der Erfassung kontaktiert. Dies scheint darauf hinzuweisen, dass mindestens eine Anwendung diese Technik verwendet, um ihre DNS-Anfragen zu verschlüsseln. Diese Funktion schränkt die Scanfunktionen von SiDER ein. Wenn diese Funktion auf dem analysierten Gerät nicht aktiviert ist, kann es sich lohnen, herauszufinden, welche App diese Methode verwendet."
         },
         "ACT-01": {
             "title": "Die Domain {} nutzt einen verdächtigen Nameserver ({}).",
@@ -134,14 +134,14 @@
         "packets_number": "Anzahl der Pakete",
         "capture_sha1": "SHA1-Aufnahme",
         "report_for_the_capture": "Bericht zur Aufnahme",
-        "report_footer": "Dieser Bericht wurde von einem SpyGuard-Gerät automatisch erstellt. Wenn Sie Fragen haben, Bugs melden oder Feedback geben möchten, kontaktieren Sie uns unter spyguard@protonmail.com.",
+        "report_footer": "Dieser Bericht wurde von einem SiDER-Gerät automatisch erstellt. Wenn Sie Fragen haben, Bugs melden oder Feedback geben möchten, kontaktieren Sie uns unter spyguard@protonmail.com.",
         "high_msg": "Ihr Gerät scheint kompromittiert zu sein, da Sie {} Warnung(en) der Stufe \"Hoch\" haben.",
         "moderate_msg": "Sie haben {} Warnungen der Stufe \"Mittel\": Ihr Gerät könnte kompromittiert sein. Bitte sehen Sie sich die Warnungen sorgfältig an.",
         "low_msg": "Sie haben nur {} Warnungen der Stufe \"Niedrig\": Überprüfen Sie sie gerne.",
         "none_msg": "Alles sieht gut aus – kein Warnungen. Sehen Sie sich gerne auch die nicht kategorisierten Kommunikationsverbindungen an, falls welche vorhanden sind.",
         "detection_methods": "Nachweismethoden",
         "analysis_duration": "Analysezeit",
-        "instance_uuid": "Instanz von SpyGuard",
+        "instance_uuid": "Instanz von SiDER",
         "seconds" : "zweite"
     }
 }

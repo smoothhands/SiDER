@@ -70,7 +70,7 @@
         },
         "IOC-13": {
             "title": "Co najmniej jedna aplikacja używa szyfrowania zapytań DNS.",
-            "description": "Skorzystano z serwera {} DNS over HTTPs (DoH) podczas badania. Wygląda na to, że co najmniej jedna aplikacja używa tej metody w celu szyfrowania zapytań DNS. Ogranicza to możliwościa przeglądania ruchu przez SpyGuard. Jeśli ta funkcja nie jest włączona na urządzeniu, warto dowiedzieć się, która aplikaja używa tej metody."
+            "description": "Skorzystano z serwera {} DNS over HTTPs (DoH) podczas badania. Wygląda na to, że co najmniej jedna aplikacja używa tej metody w celu szyfrowania zapytań DNS. Ogranicza to możliwościa przeglądania ruchu przez SiDER. Jeśli ta funkcja nie jest włączona na urządzeniu, warto dowiedzieć się, która aplikaja używa tej metody."
         },
         "ACT-01": {
             "title": "Domena {} używa podejrzanego serwera nazw ({}).",
@@ -134,14 +134,14 @@
         "packets_number": "Liczba pakietów",
         "capture_sha1": "SHA1 zapisu ruchu",
         "report_for_the_capture": "Raport dla badania",
-        "report_footer": "Raport został wygenerowany automatycznie przez urządzenie SpyGuard. W sprawie pytań, błędów oraz oceny, kontakt: spyguard@protonmail.com.",
+        "report_footer": "Raport został wygenerowany automatycznie przez urządzenie SiDER. W sprawie pytań, błędów oraz oceny, kontakt: spyguard@protonmail.com.",
         "high_msg": "Twoje urządzenie wygląd na skompromitowane, odnotowano {} wysokich ostrzeżeń.",
         "moderate_msg": "Odntowano {} umiarkowanych ostrzeżeń, Twoje urządzenie może być skompromitowane. Badź czujna(y) używając go.",
         "low_msg": "Odnotowano tylko niskie ostrzeżenia: {}. Możesz się im przyjrzeć.",
         "none_msg": "Zero ostrzeżeń, wszystko wygląda dobrze. Możesz się przyjrzeć nieskategoryzowanej komunikacji, jeżeli miała miejsce.",
         "detection_methods": "Metody detekcji",
         "analysis_duration": "Czas trwania analizy",
-        "instance_uuid": "Instancja SpyGuard",
+        "instance_uuid": "Instancja SiDER",
         "seconds" : "sekund(y)"
     }
 }

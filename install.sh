@@ -6,11 +6,11 @@ LOCALES=(de en es fr it pl pt ru)
 
 welcome_screen() {
 cat << "EOF"
-   __   _         __              _    _
-  (_   |_)  \_/  /__  | |   /\   |_)  | \
-  __)  |     |   \_|  |_|  /--\  | \  |_/
+   __      _    _   _ 
+  (_   |  | \  |_  |_)
+  __)  |  |_/  |_  | \
 
-SpyGuard is a fork of TinyCheck, developped by Kaspersky.
+SiDER is a fork of SpyGuard, developped by Felix Aime.
 -----
 
 EOF
@@ -44,9 +44,9 @@ testing_distro() {
 set_credentials() {
     # Set the credentials to access to the backend.
     echo -e "\e[39m[+] Setting the backend credentials...\e[39m"
-    echo -n "    Please choose a username for SpyGuard's backend: "
+    echo -n "    Please choose a username for SiDER's backend: "
     read login
-    echo -n "    Please choose a password for SpyGuard's backend: "
+    echo -n "    Please choose a password for SiDER's backend: "
     read -s password1
     echo ""
     echo -n "    Please confirm the password: "

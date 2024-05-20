@@ -70,7 +70,7 @@
         },
         "IOC-13": {
             "title": "Pelo menos um aplicativo usa consultas DNS criptografadas.",
-            "description": "O servidor DNS over https {} foi contatado durante a captura. Isso parece indicar que pelo menos um aplicativo usa essa técnica para criptografar suas solicitações de DNS. Esse recurso limita os recursos de verificação do SpyGuard. Se esse recurso não estiver ativado no dispositivo analisado, pode valer a pena descobrir qual aplicativo está usando esse método."
+            "description": "O servidor DNS over https {} foi contatado durante a captura. Isso parece indicar que pelo menos um aplicativo usa essa técnica para criptografar suas solicitações de DNS. Esse recurso limita os recursos de verificação do SiDER. Se esse recurso não estiver ativado no dispositivo analisado, pode valer a pena descobrir qual aplicativo está usando esse método."
         },
         "ACT-01": {
             "title": "O domínio {} está usando um servidor de nomes suspeito ({}).",
@@ -134,14 +134,14 @@
         "packets_number": "Número de pacotes",
         "capture_sha1": "Captura SHA1",
         "report_for_the_capture": "Relatório da captura",
-        "report_footer": "Este relatório foi gerado automaticamente por um dispositivo SpyGuard. Em caso de dúvidas, relatório de erros ou comentários, envie uma mensagem para spyguard@protonmail.com.",
+        "report_footer": "Este relatório foi gerado automaticamente por um dispositivo SiDER. Em caso de dúvidas, relatório de erros ou comentários, envie uma mensagem para spyguard@protonmail.com.",
         "high_msg": "O dispositivo parece estar comprometido porque você tem {} alerta(s) crítico(s).",
         "moderate_msg": "Você tem {} alerta(s) moderado(s), seu dispositivo pode estar comprometido. Analise-os com cuidado.",
         "low_msg": "Você tem apenas {} alerta(s) leve(s), não deixe de verificá-los.",
         "none_msg": "Tudo parece estar bem, zero alertas. Não deixe de verificar comunicações não categorizadas, se houver.",
         "detection_methods": "Métodos de detecção",
         "analysis_duration": "Tempo de análise",
-        "instance_uuid": "Instância do SpyGuard",
+        "instance_uuid": "Instância do SiDER",
         "seconds": "segunda(s)"
     }
 }

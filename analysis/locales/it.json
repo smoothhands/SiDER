@@ -70,7 +70,7 @@
         },
         "IOC-13": {
             "title": "Almeno un'applicazione utilizza query DNS crittografate.",
-            "description": "Il DNS sul server https {} è stato contattato durante la cattura. Questo sembra indicare che almeno un'applicazione utilizza questa tecnica per crittografare le sue richieste DNS. Questa funzione limita le capacità di scansione di SpyGuard. Se questa funzione non è abilitata sul dispositivo analizzato, può essere la pena scoprire quale applicazione sta utilizzando questo metodo."
+            "description": "Il DNS sul server https {} è stato contattato durante la cattura. Questo sembra indicare che almeno un'applicazione utilizza questa tecnica per crittografare le sue richieste DNS. Questa funzione limita le capacità di scansione di SiDER. Se questa funzione non è abilitata sul dispositivo analizzato, può essere la pena scoprire quale applicazione sta utilizzando questo metodo."
         },
         "ACT-01": {
             "title": "Il dominio {} utilizza un server dei nomi sospetto ({}).",
@@ -134,14 +134,14 @@
         "packets_number": "Numero di pacchetti",
         "capture_sha1": "SHA1 acquisizione",
         "report_for_the_capture": "Rapporto relativo all'acquisizione",
-        "report_footer": "Questo rapporto è stato generato automaticamente da un dispositivo SpyGuard. Per eventuali domande, segnalazioni di bug o feedback, contattare spyguard@protonmail.com.",
+        "report_footer": "Questo rapporto è stato generato automaticamente da un dispositivo SiDER. Per eventuali domande, segnalazioni di bug o feedback, contattare spyguard@protonmail.com.",
         "high_msg": "Sembra che il dispositivo sia compromesso poiché sono presenti {} avvisi con priorità elevata.",
         "moderate_msg": "Sono presenti {} avvisi con priorità moderata, è possibile che il dispositivo sia compromesso. Esaminarli con attenzione.",
         "low_msg": "Sono presenti solo {} avvisi con priorità bassa da controllare.",
         "none_msg": "Sembra tutto a posto, non sono presenti avvisi. Controllare eventuali comunicazioni non categorizzate.",
         "detection_methods": "Metodi di rilevamento",
         "analysis_duration": "Tempo di analisi",
-        "instance_uuid": "Istanza di SpyGuard",
+        "instance_uuid": "Istanza di SiDER",
         "seconds" : "secondi"
     }
 }

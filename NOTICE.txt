@@ -12,16 +12,16 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-The SpyGuard project is released under the Apache License, Version 2.0. 
+The SiDER project is released under the Apache License, Version 2.0. 
 This license applies to all code developed by Félix Aimé.
-The SpyGuard project contains third-party software that are under different
+The SiDER project contains third-party software that are under different
 licenses. This file contains a list of the third-party code and licensing 
 terms. Please note, however, that this file may not contain all the 
-licenses of all third-party software used in SpyGuard.
+licenses of all third-party software used in SiDER.
 
 =======
 SOFTWARE CODE
-Information about third-party software code used in the development of Spyguard.
+Information about third-party software code used in the development of SiDER.
 
 
 TinyCheck (commit ab3f5b584e8d1d23650f638948f28734e62b4e56)
